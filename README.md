@@ -9,8 +9,8 @@ Compiler: Visual Studio 2012
 Language: C
 
 Useage
-======
+------
 
 Arrow Keys    --->    Movement Pacman
-/+ Key         --->    Inc. Game Speed
-/- Key         --->    Desc. Game Speed
+ + Key        --->    Inc. Game Speed
+ - Key        --->    Desc. Game Speed
