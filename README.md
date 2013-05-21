@@ -18,4 +18,4 @@ Arrow Keys    --->    Movement Pacman
 '-' Key       --->    Desc. Game Speed
 
 
-HAVE FUN! :)
+**HAVE FUN! :)**
