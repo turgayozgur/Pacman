@@ -12,5 +12,7 @@ Useage
 ------
 
 Arrow Keys    --->    Movement Pacman
+
 '+' Key       --->    Inc. Game Speed
+
 '-' Key       --->    Desc. Game Speed
